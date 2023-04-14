@@ -1,16 +1,16 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Providus Research | Blog",
+  "site_description": "Marketing and tech blog of Providus Research",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Marketing"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "SEO"
     },
     {
-      "keyword": "React"
+      "keyword": "Tech"
     }
   ],
   "posts_per_page": 5,
