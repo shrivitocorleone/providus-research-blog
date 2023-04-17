@@ -82,7 +82,10 @@ export default function PostLayout({
           </ul>
         </article>
         <footer>
+          <div>
           <Copyright />
+          </div>
+         
         </footer>
       </div>
       <style jsx>
