@@ -82,10 +82,10 @@ export default function PostLayout({
           </ul>
         </article>
         <footer>
-          <div>
-          <Copyright />
+          <div className={"social-list"}>
+            
           </div>
-         
+          <Copyright />
         </footer>
       </div>
       <style jsx>
